@@ -1,0 +1,3 @@
+<p>
+    halaman view
+</p>
